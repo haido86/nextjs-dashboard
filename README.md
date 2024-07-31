@@ -4,13 +4,13 @@ This is the dashboard application based on the Next.js App Router Course which c
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-# Implementation:
+## Implementation:
 
-## App Router
+### App Router
 
-## Authentication
+### Authentication
 
-# App testing account:
+## App testing account:
 
 email: user@nextmail.com
 password: 123456
